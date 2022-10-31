@@ -1,11 +1,11 @@
 import React from "react";
 import "./App.css";
-import HookCounterFour from "./components/state/HookCounterFour";
+import ClassCounterOne from "./components/useEffect/ClassCounterOne";
 
 function App() {
 	return (
 		<div className="App">
-			<HookCounterFour />
+			<ClassCounterOne />
 		</div>
 	);
 }
