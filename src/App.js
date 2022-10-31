@@ -1,6 +1,6 @@
 import React from "react";
 import "./App.css";
-import HookCounterFour from "./components/HookCounterFour";
+import HookCounterFour from "./components/state/HookCounterFour";
 
 function App() {
 	return (
